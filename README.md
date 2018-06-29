@@ -12,10 +12,11 @@ We are here to ensure you have the best experience during the bootcamp, in order
 
 If any of the points listed above is not completed succesfully or your percentage of homework and attendance is **65% at any moment during the bootcamp**, you´ll receive as a first warning a responsive letter that states that you’ll commit to improve your grades and submit your homework immediately. If the answer to that warning is negative you will be disenrolled from the program.
 
-\
-\
-\
-\
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
                                   _________________________________
 
