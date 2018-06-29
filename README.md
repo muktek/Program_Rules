@@ -16,7 +16,6 @@ If any of the points listed above is not completed succesfully or your percentag
 \
 \
 \
-\
 
                                   _________________________________
 
