@@ -2,7 +2,7 @@
 
 We are here to ensure you have the best experience during the bootcamp. In order to help you achieve your goals and complete the program successfully, we have created the following set of rules that are mandatory for everyone in the program .
 
-### IN ORDER TO COMPLETE THE PROGRAM AND GET YOUR DIPLOMA YOU MUST FULFILL THE FOLLOWING CONDITIONS:
+#### IN ORDER TO COMPLETE THE PROGRAM AND GET YOUR DIPLOMA YOU MUST FULFILL THE FOLLOWING CONDITIONS:
 
 - You must have 90% attendance to classes (incl. Soft Skills and Speaker Events)
 
